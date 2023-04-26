@@ -2,7 +2,7 @@ setup a repo
 	git init
 
 add files
-	git add . = adds all files to index ESSENTIAL
+	git add . = adds all files to index (ESSENTIAL)
 	git add [file] = adds a file to the index
 
 clone an existing repository
@@ -14,5 +14,3 @@ branch stuff
 	git checkout [name] = make new brach and switch to it
 	git merge [current branch name] = merge this branch to main
 	git merge master = merge master into your branch
-
-	todo git add .
