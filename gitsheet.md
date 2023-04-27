@@ -13,6 +13,7 @@
 
 **add files**
 - `git add . = adds all files to index (ESSENTIAL)`
+- `git add -A = adds all files to index (even deleted)`
 - `git add [file] = adds a file to the index`
 
 ---
