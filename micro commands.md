@@ -1,6 +1,6 @@
+## Micro cheatsheet
 
-
-## All commands start with ^e
+# All commands start with ^e
 
 ---
 
