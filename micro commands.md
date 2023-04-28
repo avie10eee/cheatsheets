@@ -1,5 +1,10 @@
-All commands start with ^e
-tree        = opens file manager
+
+
+## All commands start with ^e
+
+---
+
+>tree        = opens file manager
 upper       = makes selected text uppercase
 lower       = makes selected text lowercase
 base64enc   = base64 encodes
