@@ -1,13 +1,17 @@
 
 ## Git CheatSheet
 
+---
+
 **setup a repo**
 `git init -b [branch name] = initalizes the repository`
 
+---
+
 **clone or add an existing repository**
-`git clone [url]`
-`git remote add origin [url] = adds remote from a url`
-`git remote -v = verifies the remote repository`
+- `git clone [url]`
+- `git remote add origin [url] = adds remote from a url`
+- `git remote -v = verifies the remote repository`
 
 ---
 
@@ -36,8 +40,8 @@ use the after the setup instead of `git add .`
 ------------------------------------------------------------------------------------
 
 **branch stuff**
-`git branch = list branches`
-`git checkout = go to a branch`
-`git checkout [new-branch] = make new brach and switch to it`
-`git merge [current branch name] = merge this branch to main`
-`git merge master = merge master into your branch`
+- `git branch = list branches`
+- `git checkout = go to a branch`
+- `git checkout [new-branch] = make new brach and switch to it`
+- `git merge [current branch name] = merge this branch to main`
+- `git merge master = merge master into your branch`
