@@ -1,10 +1,10 @@
 
-## Git CheatSheet
+# Git CheatSheet
 
 ---
 
 **setup a repo**
-`git init -b [branch name] = initalizes the repository`
+`git init -b [branch name] = initializes the repository`
 
 ---
 
@@ -25,7 +25,7 @@
 **tagging**
 `git tag -a [version-number] -m "[description]"`
 
-**commiting**
+**committing**
 use the after the setup instead of `git add .`
 `git commit -am "[commit message]" = commit and stage your changes with a message`
 
