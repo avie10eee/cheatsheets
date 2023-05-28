@@ -1,11 +1,15 @@
 
 ## This is a cheatsheet for tmux
+ 
+### > tmux -s "name" = start tmux
 
-> tmux = start tmux
+### ^b = before any command
 
-> ^b = before any command
+### tmux attach = attach to a tmux session
 
-> c = for new terminal
+### tmux kill-session -a -t "name" = kill all tmux session but the name
+
+> c = for new seisson
 
 > n = for next terminal
 
@@ -24,4 +28,8 @@
 > 0-9 = move to a specific pane
 
 > o = cycle between panes
+
+> d = delete the current pane
+
+
 
